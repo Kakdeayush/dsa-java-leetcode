@@ -1,24 +1,32 @@
-# DSA in Java – LeetCode
+# DSA Java – LeetCode Practice
 
 This repository contains my daily practice of Data Structures and Algorithms
-problems from LeetCode, implemented in **Java** with clear explanations.
+problems from **LeetCode**, implemented in **Java**.
 
-## 📌 Goals
-- Solve DSA problems consistently
+## 🎯 Purpose
 - Improve problem-solving skills
-- Build a strong GitHub profile with daily commits
+- Build strong DSA fundamentals
+- Maintain consistency with daily practice
+- Showcase my learning on GitHub
+
+## 📂 Repository Structure
+- Each folder represents a DSA topic
+- Each problem has its own folder
+- Every problem includes:
+  - Java solution
+  - Brief explanation of the approach
 
 ## 🧠 Topics Covered
 - Arrays
 - Linked List
-- Stack & Queue
-- Hashing
-- Trees
-- Graphs
-- Dynamic Programming
+- Stack
+- Queue
+- HashMap
+- Trees (coming soon)
+- Dynamic Programming (coming soon)
 
-## 🛠 Language
+## 🛠 Language Used
 - Java
 
 ## 📅 Progress
-I aim to solve **1–2 problems daily** and document my approach clearly.
+I solve and document **1–2 problems daily** and update this repository regularly.
